@@ -7,8 +7,8 @@
 |--|--|
 | GND | GND |
 | 3V3 | VCC |
-| GPIO17 | TX |
-| GPIO16 | RX |
+| GPIO17 | RX |
+| GPIO16 | TX |
 
 # Using an nR52 module
 ## Aliexpress Links
